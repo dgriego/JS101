@@ -1,4 +1,4 @@
-const readLineSync = require('readLine-sync');
+const readLineSync = require('readline-sync');
 
 const METER_TO_FOOT_RATIO = 10.7639;
 
